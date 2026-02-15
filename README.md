@@ -138,7 +138,4 @@ Help freelancers reach:
 
 using skill-based positioning and high-value services.
 
----
-
-## Repository Structure
 
